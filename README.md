@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=G4rgyl3&theme=hacker&border_radius=16)](https://git.io/streak-stats)
 <!--
 **G4rgyl3/G4rgyl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
