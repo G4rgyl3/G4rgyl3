@@ -1,4 +1,10 @@
-## Hi there 👋
+## Caaaaaa Craaaaaa!
+### Developer building games and exploratory projects.
+
+:sparkle: HTML, Javascript, CSS \
+:sparkle: C#, Rust, Typescript \
+:sparkle: Solidity \
+:sparkle: Postgresql, MSSQL, MySQL
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=G4rgyl3&theme=hacker&border_radius=16)](https://git.io/streak-stats)
 <!--
